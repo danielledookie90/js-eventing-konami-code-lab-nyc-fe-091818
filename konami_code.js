@@ -11,7 +11,7 @@ function onKeyDown(event){
     tracker = 0
   }
   
-  if (tracker === 10){
+  if (tracker === 9){
   alert('you did it')
   }
   
